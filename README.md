@@ -1,6 +1,5 @@
 # FreeCodeCamp
-
-Tribute Page
+Tribute Page built with Bootstrap.
 
 Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/FreeCodeCamp/full/NNvBQW/.
 
